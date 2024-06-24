@@ -1,4 +1,3 @@
-Sure, let's format the last sections properly as markdown.
 
 # AWS Resume API Challenge Documentation
 
